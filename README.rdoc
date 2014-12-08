@@ -3,6 +3,9 @@
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
+For spontinous action on chat we have to add this according to environment.
+ rackup private_pub.ru -s thin -E production   # for production
+
 Things you may want to cover:
 
 * Ruby version
