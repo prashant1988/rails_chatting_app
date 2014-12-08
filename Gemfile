@@ -29,6 +29,11 @@ gem 'devise'
 gem 'private_pub'
 gem 'thin'
 
+group :production do
+  gem 'pg'
+  gem 'shelly-dependencies'
+end
+
 # Use unicorn as the app server
 # gem 'unicorn'
 
