@@ -33,7 +33,7 @@ gem 'thin'
 
 group :production do
   # gem 'pg'
-  gem 'shelly-dependencies'
+  # gem 'shelly-dependencies'
 end
 
 # Use unicorn as the app server
