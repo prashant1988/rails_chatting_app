@@ -33,6 +33,7 @@ gem 'thin'
 
 group :production do
    gem 'pg'
+   gem 'heroku'
   # gem 'shelly-dependencies'
 end
 
