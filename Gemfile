@@ -32,7 +32,7 @@ gem 'private_pub'
 gem 'thin'
 
 group :production do
-  # gem 'pg'
+   gem 'pg'
   # gem 'shelly-dependencies'
 end
 
